@@ -2,7 +2,7 @@
 **Simple Python Code ENCRYPT.**
 
 [![Author](https://img.shields.io/badge/AUTHOR-SKING_TECH-blue)](https://github.com/htr-tech)
-[![Language](https://img.shields.io/badge/WRITTEN%20in-python-blue)](#)
+[![Language](https://img.shields.io/badge/WRITTEN%20IN-python-blue)](#)
 [![Opensource](https://img.shields.io/badge/OPEN%20SOURCE-NO-green)](#)
 
 ### Supported Language:
