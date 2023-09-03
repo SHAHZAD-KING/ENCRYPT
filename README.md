@@ -1,9 +1,9 @@
 # ENCRYPT 
 **Simple Python Code ENCRYPT.**
 
-[![Author](https://img.shields.io/badge/Author-SKING_TECH-blue)](https://github.com/htr-tech)
+[![Author](https://img.shields.io/badge/AUTHOR-SKING_TECH-blue)](https://github.com/htr-tech)
 [![Language](https://img.shields.io/badge/Written%20in-python-blue)](#)
-[![Opensource](https://img.shields.io/badge/Open%20Source-NO-green)](#)
+[![Opensource](https://img.shields.io/badge/OPEN%20SOURCE-NO-green)](#)
 
 ### Supported Language:
 - **python 2.x**
@@ -12,7 +12,6 @@
 ### Installation :
 
 ```bash
-apt install git python -y
 rm -rf ENC
 
 git clone https://github.com/shahzadrahimy/ENCRYPT
